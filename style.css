@@ -1,0 +1,13 @@
+head {
+    margin: auto;
+    text-align: center;
+}
+body {
+    background-color: #202020;
+    color: white;
+    font-size: 30px;
+    margin: auto;
+    text-align: center;
+    font-family: 'Poppins', 'Poppins', monospace;
+    
+}
